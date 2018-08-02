@@ -47,7 +47,5 @@ https://unsplash.com/
     <img src="https://image.ibb.co/dNC1Yd/Screenshot_2018_07_16_16_49_15.png" width="750">
 </p>
 
-<p align="center">
-    <img src="https://image.ibb.co/fATrYd/Screenshot_2018_07_16_16_49_46.png" width="750">
-</p>
+
 # profil
